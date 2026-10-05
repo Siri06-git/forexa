@@ -1,0 +1,44 @@
+feature,importance
+model_disagreement,944
+ensemble_spread_percentile,905
+forecast_error,895
+z500_acc,849
+historical_error_p95,847
+sst_anomaly,839
+regime_similarity,801
+blocking_index,698
+jet_stream_shift,666
+mjo_phase,308
+lead_time,291
+atmospheric_regime_cyclonic,114
+monsoon_phase_none,81
+atmospheric_regime_trough,70
+monsoon_phase_peak,68
+monsoon_phase_onset,62
+region_Himachal Pradesh,54
+season_winter,53
+atmospheric_regime_anticyclonic,47
+atmospheric_regime_ridge,45
+season_post-monsoon,39
+monsoon_phase_retreat,38
+region_Odisha,36
+season_monsoon,33
+region_Assam,29
+season_pre-monsoon,26
+region_West Bengal,25
+region_Punjab,21
+region_Jharkhand,16
+region_Uttarakhand,13
+region_Haryana,13
+region_Gujarat,12
+region_Chhattisgarh,12
+region_Karnataka,11
+region_Madhya Pradesh,8
+region_Bihar,7
+region_Rajasthan,6
+region_Uttar Pradesh,6
+region_Maharashtra,5
+region_Andhra Pradesh,3
+region_Kerala,2
+region_Telangana,1
+region_Tamil Nadu,1
